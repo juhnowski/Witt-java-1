@@ -12,7 +12,7 @@ Java conceptual analyses of Tractatus logico-philosophicus by Ludwig Wittgenstei
 - скомпилированного байт-кода - как доказательства непротиворечивости
 
 # Результат
-Была построена непротиворечивая онтология: https://github.com/juhnowski/Witt-java
+Была построена непротиворечивая онтология: https://github.com/juhnowski/Witt-java-1
 
 # Вывод
 Проведенная аналитическая работа показывает, что любая логически непротиворечивая онтология существует и данный факт говорит о:
